@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Full Stack project which is clone of Yelp.**
 
-- 💬 Ask me about **Web development.**
+- 💬 Ask me about **Software Engineering & Full Stack development.**
 
 - 📫 How to reach me **dakshviradiya4@gmail.com**
 
