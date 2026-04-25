@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daksh</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer (Frontend + Backend)</h3>
+<h3 align="center">💼 Software Development Engineer at CVS Health</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dakshvr&label=Profile%20views&color=0e75b6&style=flat" alt="dakshvr" />
@@ -8,10 +8,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building a **Full Stack Yelp Clone**
-- 💬 Ask me about **Software Engineering & Full Stack Development**
-- 📫 Reach me at: **dakshviradiya4@gmail.com**
-- ⚡ Fun fact: There's a library called **BoredAPI** 😄
+- 💼 Working as a **Software Development Engineer at CVS Health**, building scalable backend systems and cloud-native applications  
+- 💬 Experienced in **Full Stack Development, APIs, and Distributed Systems**
 
 ---
 
